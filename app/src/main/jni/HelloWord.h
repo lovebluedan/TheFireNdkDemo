@@ -1,0 +1,8 @@
+//
+// Created by 林丹荣 on 2017/6/10.
+//
+
+#ifndef THEFIRENDKDEMO_HELLOWORD_H
+#define THEFIRENDKDEMO_HELLOWORD_H
+
+#endif //THEFIRENDKDEMO_HELLOWORD_H
